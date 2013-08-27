@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "authors": [
+    "Sergey Tatarintsev <sevinf@yandex-team.ru>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+      "bem-components": "git://github.com/SevInf/bem-components.git#5de42f789c85e511aa7c0c93037f1c67bc82eb45"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
